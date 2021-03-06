@@ -1,0 +1,12 @@
+{
+    "[json]": {
+        "editor.fontFamily": "Fira Code",
+        "editor.fontSize": 12,
+        "editor.fontLigatures": true,
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+    
+}
